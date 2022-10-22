@@ -1,0 +1,7 @@
+raw_data/
+trimmomatic_result/
+trimmomatic_result_30/
+alignment.bam
+alignment.sam
+alignment_sorted.bam
+my.mpileup
